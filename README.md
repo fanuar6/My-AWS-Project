@@ -1,15 +1,15 @@
 # 🟢 Project 1 – Static Website Hosting on Amazon S3
 
-This project showcases how to host a fully functional **static website** using **Amazon S3**.
+This repository is my first project where I demonstrates how to deploy and host a **static website** using **Amazon S3**.
 
 ---
 
 ## 🗂️ What I Did
 
-- Created and configured an **Amazon S3 bucket** with public access and versioning.
-- Uploaded HTML and CSS files to the bucket.
-- Set up static website hosting configuration and endpoint.
-- Solved visibility issues using bucket policies and ACLs.
+-Set up and configured an Amazon **S3 bucket** with public access and versioning enabled.
+-Uploaded HTML and CSS assets into the bucket.
+-Activated static website hosting and obtained the endpoint URL.
+-Resolved access issues by applying bucket policies and ACLs.
 
 ---
 
@@ -19,10 +19,10 @@ This project showcases how to host a fully functional **static website** using *
 
 ---
 
-## 📄 Documentation
+## 📄 Endpoint URL
 
-You can download and read the full documentation here:  
-[📥 View PDF – S3 Static Website Documentation](./Documents/S3-StaticWebsite-Documentation.pdf)
+You can view the website here:  
+[My S3 Static Website](http://test-satu.s3-website.ap-southeast-5.amazonaws.com/)
 
 ---
 
